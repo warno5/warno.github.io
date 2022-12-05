@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #add8e6;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+#projects {
+  background-color: #e6e6fa;
+}
+section {
+  padding-top: 4rem;
+}
